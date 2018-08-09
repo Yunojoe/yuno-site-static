@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'headerfont';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180711040525headerfont.eot');
+				src: local('headerfont'), url('/wp-content/uploads/useanyfont/180711040525headerfont.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180711040525headerfont.woff') format('woff');
+			}
+            
+            .headerfont{font-family: 'headerfont' !important;}
+            
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'headerfont' !important;
+				}
+		

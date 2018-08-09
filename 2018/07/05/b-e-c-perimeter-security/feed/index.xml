@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: B.E.C Perimeter Security</title>
+	<atom:link href="/2018/07/05/b-e-c-perimeter-security/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/07/05/b-e-c-perimeter-security/</link>
+	<description>Southampton Website Design &#38; Development</description>
+	<lastBuildDate>Thu, 05 Jul 2018 09:09:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+</channel>
+</rss>

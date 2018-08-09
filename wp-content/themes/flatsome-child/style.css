@@ -1,0 +1,51 @@
+/*
+Theme Name: YunoMediasome
+Description: This is our lovely alteration to flatsome
+Author: Joe Dan Rob
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+@font-face {
+    font-family: headerfont;
+    src: url(/wp-content/themes/flatsome-child/fonts/headerfont.woff);
+}
+
+@font-face {
+    font-family: bodyfont;
+    src: url(/wp-content/themes/flatsome-child/fonts/bodyfont.woff);
+}
+
+
+
+h1,h2,h3,h4,h5,h6, .heading-font{
+    font-family: 'headerfont', arial, sans-serif;
+    font-weight: 500;
+}
+
+body h1, h2, h3, h4, h5, h6, .heading-font, body .off-canvas-center .nav-sidebar.nav-vertical > li > a{
+    
+    font-family: 'headerfont', arial, sans-serif;
+    font-weight: 500;
+}
+
+body{
+     font-family: 'bodyfont', arial, sans-serif;
+    font-weight: 300;
+}
+
+.nav > li > a {
+     font-family: 'bodyfont', arial, sans-serif;
+    font-weight: 300;
+}
+
+
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

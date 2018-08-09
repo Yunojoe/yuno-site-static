@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'headerfont';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180711040525headerfont.eot');
+				src: local('headerfont'), url('/wp-content/uploads/useanyfont/180711040525headerfont.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180711040525headerfont.woff') format('woff');
+			}
+            
+            .et_gf_headerfont{background:none !important;font-family:headerfont;text-indent:0 !important;font-size:25px;}
+            
+		

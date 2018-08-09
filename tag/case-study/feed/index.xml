@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>case study &#8211; Yuno Media</title>
+	<atom:link href="/tag/case-study/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Southampton Website Design &#38; Development</description>
+	<lastBuildDate>Thu, 09 Aug 2018 10:49:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>B.E.C Perimeter Security</title>
+		<link>/2018/07/05/b-e-c-perimeter-security/</link>
+		<comments>/2018/07/05/b-e-c-perimeter-security/#respond</comments>
+		<pubDate>Thu, 05 Jul 2018 13:24:55 +0000</pubDate>
+		<dc:creator><![CDATA[rob]]></dc:creator>
+				<category><![CDATA[case study]]></category>
+
+		<guid isPermaLink="false">/?p=162</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/2018/07/05/b-e-c-perimeter-security/">B.E.C Perimeter Security</a> appeared first on <a rel="nofollow" href="/">Yuno Media</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/2018/07/05/b-e-c-perimeter-security/">B.E.C Perimeter Security</a> appeared first on <a rel="nofollow" href="/">Yuno Media</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2018/07/05/b-e-c-perimeter-security/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
